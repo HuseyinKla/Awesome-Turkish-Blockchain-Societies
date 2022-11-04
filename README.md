@@ -17,5 +17,5 @@ List of Turkish blockchain societies
 | ![logo_mavi](https://user-images.githubusercontent.com/58492490/199801668-3b645dee-1b07-4bcc-bb73-85e6969b4cae.png) <br> **YU Blockchain** | Not Available | [@yu_blockchain](https://twitter.com/yu_blockchain) | Blockchain research and development society at Yasar University | Izmir | 2022 | Yes |
 | ![cukurova_logo](https://avatars.githubusercontent.com/u/106434529?s=200&v=4) <br> **Çukurova Blockchain** | **[linktr.ee/cukurovablockchain](https://t.co/TWsKttj2uR)** | [@cukurovablock](https://twitter.com/cukurovablock) | Blockchain research and development society at Cukurova University | [Cukurova University](https://cu.edu.tr/) | 2022 | Yes |
 
-
+| ![mebloredLogo- 100x100](https://user-images.githubusercontent.com/72447846/199857241-b14f84d6-1a4b-4c50-b98f-62815bbaf98e.png) <br> **Konya Teknik Blockchain (MEBLORED)** | **[meblored.tech](https://www.meblored.tech/)** | [@meblored](https://twitter.com/meblored) | Metaverse Blockchain Research And Development Community | [Konya](https://www.ktun.edu.tr/) | 2022 | Yes |
 
