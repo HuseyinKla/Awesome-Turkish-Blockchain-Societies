@@ -16,6 +16,5 @@ List of Turkish blockchain societies
 | ![taublockchainlogo](https://user-images.githubusercontent.com/99171546/199795334-fb7217d3-486d-4369-9837-d47e16d8bf59.png) </br> **TAU BLOCKCHAIN** | **[linktr.ee/taublockchain](https://linktr.ee/taublockchain)** | [@tdublockchain](https://twitter.com/tdublockchain) | Blockchain research and development society at Turkish-German University| [Istanbul](https://www.tau.edu.tr) | 2022 | Yes|
 | ![logo_mavi](https://user-images.githubusercontent.com/58492490/199801668-3b645dee-1b07-4bcc-bb73-85e6969b4cae.png) <br> **YU Blockchain** | Not Available | [@yu_blockchain](https://twitter.com/yu_blockchain) | Blockchain research and development society at Yasar University | Izmir | 2022 | Yes |
 | ![cukurova_logo](https://avatars.githubusercontent.com/u/106434529?s=200&v=4) <br> **Çukurova Blockchain** | **[linktr.ee/cukurovablockchain](https://t.co/TWsKttj2uR)** | [@cukurovablock](https://twitter.com/cukurovablock) | Blockchain research and development society at Cukurova University | [Cukurova University](https://cu.edu.tr/) | 2022 | Yes |
-
-
+| ![MEBLORED_logo](https://user-images.githubusercontent.com/72447846/199857476-5b1ecd7f-acf1-4b11-a14a-876db660d7df.png)  <br> *Konya Teknik Blockchain (MEBLORED)* | *[meblored.tech](https://www.meblored.tech/)*** | [@meblored](https://twitter.com/meblored) | Metaverse Blockchain Research And Development Community | [Konya](https://www.ktun.edu.tr/) | 2022 | Yes |
 
